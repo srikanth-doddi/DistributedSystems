@@ -1,0 +1,12 @@
+site_name: Distributed Systems
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: amber
+
+nav:
+  - Home: index.md
+  - Introduction:
+      - Overview: introduction/overview.md
+      - Getting Started: introduction/getting-started.md
