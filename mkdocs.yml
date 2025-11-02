@@ -1,4 +1,5 @@
 site_name: Distributed Systems
+site_url: https://srikanth-doddi.github.io/DistributedSystems/
 theme:
   name: material
   palette:
